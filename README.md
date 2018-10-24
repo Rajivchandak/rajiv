@@ -1,6 +1,8 @@
 #include<iostream.h>
-using namespace.std
+#include<conio.h>
+void main()
 {
-cout<<"hello world again!!""<<endl;
+clrscr();
+std::cout<<"hello world again!!";
+getch();
 }
- 
